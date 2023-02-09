@@ -1,0 +1,32 @@
+C:\Users\13135\source\repos\CoffeeShop Lab\CoffeeShop Lab\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\13135\source\repos\CoffeeShop Lab\CoffeeShop Lab\bin\Debug\net6.0\appsettings.json
+C:\Users\13135\source\repos\CoffeeShop Lab\CoffeeShop Lab\bin\Debug\net6.0\CoffeeShop Lab.staticwebassets.runtime.json
+C:\Users\13135\source\repos\CoffeeShop Lab\CoffeeShop Lab\bin\Debug\net6.0\CoffeeShop Lab.exe
+C:\Users\13135\source\repos\CoffeeShop Lab\CoffeeShop Lab\bin\Debug\net6.0\CoffeeShop Lab.deps.json
+C:\Users\13135\source\repos\CoffeeShop Lab\CoffeeShop Lab\bin\Debug\net6.0\CoffeeShop Lab.runtimeconfig.json
+C:\Users\13135\source\repos\CoffeeShop Lab\CoffeeShop Lab\bin\Debug\net6.0\CoffeeShop Lab.dll
+C:\Users\13135\source\repos\CoffeeShop Lab\CoffeeShop Lab\bin\Debug\net6.0\CoffeeShop Lab.pdb
+C:\Users\13135\source\repos\CoffeeShop Lab\CoffeeShop Lab\obj\Debug\net6.0\CoffeeShop Lab.csproj.AssemblyReference.cache
+C:\Users\13135\source\repos\CoffeeShop Lab\CoffeeShop Lab\obj\Debug\net6.0\CoffeeShop Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13135\source\repos\CoffeeShop Lab\CoffeeShop Lab\obj\Debug\net6.0\CoffeeShop Lab.AssemblyInfoInputs.cache
+C:\Users\13135\source\repos\CoffeeShop Lab\CoffeeShop Lab\obj\Debug\net6.0\CoffeeShop Lab.AssemblyInfo.cs
+C:\Users\13135\source\repos\CoffeeShop Lab\CoffeeShop Lab\obj\Debug\net6.0\CoffeeShop Lab.csproj.CoreCompileInputs.cache
+C:\Users\13135\source\repos\CoffeeShop Lab\CoffeeShop Lab\obj\Debug\net6.0\CoffeeShop Lab.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\13135\source\repos\CoffeeShop Lab\CoffeeShop Lab\obj\Debug\net6.0\CoffeeShop Lab.RazorAssemblyInfo.cache
+C:\Users\13135\source\repos\CoffeeShop Lab\CoffeeShop Lab\obj\Debug\net6.0\CoffeeShop Lab.RazorAssemblyInfo.cs
+C:\Users\13135\source\repos\CoffeeShop Lab\CoffeeShop Lab\obj\Debug\net6.0\staticwebassets\msbuild.CoffeeShop Lab.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\13135\source\repos\CoffeeShop Lab\CoffeeShop Lab\obj\Debug\net6.0\staticwebassets\msbuild.build.CoffeeShop Lab.props
+C:\Users\13135\source\repos\CoffeeShop Lab\CoffeeShop Lab\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CoffeeShop Lab.props
+C:\Users\13135\source\repos\CoffeeShop Lab\CoffeeShop Lab\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CoffeeShop Lab.props
+C:\Users\13135\source\repos\CoffeeShop Lab\CoffeeShop Lab\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\13135\source\repos\CoffeeShop Lab\CoffeeShop Lab\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\13135\source\repos\CoffeeShop Lab\CoffeeShop Lab\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\13135\source\repos\CoffeeShop Lab\CoffeeShop Lab\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\13135\source\repos\CoffeeShop Lab\CoffeeShop Lab\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\13135\source\repos\CoffeeShop Lab\CoffeeShop Lab\obj\Debug\net6.0\scopedcss\bundle\CoffeeShop Lab.styles.css
+C:\Users\13135\source\repos\CoffeeShop Lab\CoffeeShop Lab\obj\Debug\net6.0\scopedcss\projectbundle\CoffeeShop Lab.bundle.scp.css
+C:\Users\13135\source\repos\CoffeeShop Lab\CoffeeShop Lab\obj\Debug\net6.0\CoffeeShop Lab.dll
+C:\Users\13135\source\repos\CoffeeShop Lab\CoffeeShop Lab\obj\Debug\net6.0\refint\CoffeeShop Lab.dll
+C:\Users\13135\source\repos\CoffeeShop Lab\CoffeeShop Lab\obj\Debug\net6.0\CoffeeShop Lab.pdb
+C:\Users\13135\source\repos\CoffeeShop Lab\CoffeeShop Lab\obj\Debug\net6.0\CoffeeShop Lab.genruntimeconfig.cache
+C:\Users\13135\source\repos\CoffeeShop Lab\CoffeeShop Lab\obj\Debug\net6.0\ref\CoffeeShop Lab.dll
